@@ -1,4 +1,4 @@
 # hello-world
-Practicing HTML &amp; CSS
+Practicing creating repositories, branches, commits, and pull requests
 
-I am practicing HTML and CSS web development with this cat-themed site.
+This is my first Github repository!
